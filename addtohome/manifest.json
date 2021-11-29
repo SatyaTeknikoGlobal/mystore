@@ -1,0 +1,20 @@
+{
+  "short_name": "Test App",
+  "name": "Web Test App",
+  "icons": [
+    {
+      "src": "https://1313xyz.xyz/addtohome/imgs/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1313xyz.xyz/addtohome/imgs/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://1313xyz.xyz/agarwal-electronics/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
